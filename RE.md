@@ -5,6 +5,9 @@
   ps ax | grep connectd | grep -v grep
 ```
 ###[]()  
+```
+sudo connectd_start_all
+```
 ###[]()  
 ###[]()  
 ###[]()  
