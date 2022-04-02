@@ -9,7 +9,7 @@
 sudo connectd_start_all
 ```
 ###[opencv-contrib-python](https://www.piwheels.org/project/opencv-contrib-python/)  
-###[]()  
+###[OpenCV Python Installation for Raspberry Pi](https://singleboardblog.com/install-python-opencv-on-raspberry-pi/)  
 ###[]()  
 ###[]()  
 ###[]()  
