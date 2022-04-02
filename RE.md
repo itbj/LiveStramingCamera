@@ -8,7 +8,7 @@
 ```
 sudo connectd_start_all
 ```
-###[]()  
+###[opencv-contrib-python](https://www.piwheels.org/project/opencv-contrib-python/)  
 ###[]()  
 ###[]()  
 ###[]()  
